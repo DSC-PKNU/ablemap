@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Able Map</string>
+    <string name="format_bearing">%d°</string>
+    <string name="marker_over_path">경로선 위에 위치한 마커</string>
+    <string name="marker_under_path">경로선 아래에 위치한 마커</string>
+    <string name="default_bearing">0°</string>
+    <string name="label_bearing">베어링:</string>
+    <string name="access_token">pk.eyJ1IjoiY3l1bnkiLCJhIjoiY2tsYWk0MG04MGF0NTJ2cXRrN24wdDJnNCJ9.6AlXjpXwVz5iDrOOkIWseQ</string>
+</resources>

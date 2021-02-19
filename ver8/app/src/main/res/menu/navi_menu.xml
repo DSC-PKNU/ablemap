@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/hae"
+            android:icon="@drawable/beach"
+            android:title="해운대 코스"/>
+
+        <item
+            android:id="@+id/nam"
+            android:icon="@drawable/fish"
+            android:title="남포동 코스"/>
+
+        <item
+            android:id="@+id/yeong"
+            android:icon="@drawable/yeongdo"
+            android:title="영도 코스"/>
+
+        <item
+            android:id="@+id/mus"
+            android:icon="@drawable/busanmuseum"
+            android:title="박물관 코스"/>
+
+        <item
+            android:id="@+id/nat"
+            android:icon="@drawable/nature"
+            android:title="자연 코스"/>
+
+        <item
+            android:id="@+id/cafe"
+            android:icon="@drawable/coffee"
+            android:title="기장카페"/>
+
+
+    </group>
+
+
+</menu>
